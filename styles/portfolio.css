@@ -304,5 +304,34 @@ footer textarea {
         flex-direction: column;
     }
 
+    .banner {
+        flex-direction: column;
+        margin: 20px;
+    }
+
+    .banner-profile-pic {
+        width: 100%;
+    }
+
+    nav, nav > ul {
+        flex-direction: column;
+    }
+
+    nav > ul {
+        gap: 20px;
+    }
+
+    .btn-primary {
+        margin-bottom: 20px;
+    }
+
+
+
+
+
+
+
+
+
 
 }
