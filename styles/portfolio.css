@@ -296,5 +296,13 @@ footer textarea {
         
     }
 
+    .about {
+        padding: 20px;
+    }
+
+    .about-items {
+        flex-direction: column;
+    }
+
 
 }
